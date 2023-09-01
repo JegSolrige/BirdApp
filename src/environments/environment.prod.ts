@@ -1,4 +1,5 @@
 export const environment = {
     envName: 'prod',
-    apiKey: ''
+    googleMapsApiKey: '',
+    eBirdsApiKey: '',
 };
