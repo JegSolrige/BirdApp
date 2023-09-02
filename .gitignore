@@ -25,3 +25,5 @@ dist-ssr
 src/environment/environment.ts
 src/environment/environment.dev.ts
 src/environments/environment.ts
+.vercel
+.env*.local
